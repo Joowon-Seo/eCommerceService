@@ -1,4 +1,4 @@
-# 개요
+## 개요
 간단한 커머스 프로젝트
 
 Use : Spring, Jpa, Mysql, Redis, Docker, AWS
